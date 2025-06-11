@@ -9,6 +9,6 @@ Run the following command from a bash session, you will be prompted for a new ho
 **NOTE: Make sure you wait for all services to start before running this script, otherwise weirdness may ensue!**
 
 ```sh
-sudo bash -c "bash <(wget -qO- https://gitlab-mgmt-server0-b.mgmt.c.fraunhofer.de/global/shellscripts/boilerplating/debian12.11.0/-/raw/main/run.sh?ref_type=heads)"
+sudo bash -c "bash <(wget -qO- sudo bash -c "bash <(wget -qO- https://raw.githubusercontent.com/mwaag/debian-vm-boilerplate/refs/heads/master/run.sh)")"
 ```
 
